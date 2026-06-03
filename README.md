@@ -1,7 +1,4 @@
-<body>
-<div class="container">
-<div class="hero">
-    <h1>🚀 Humanex v4.0 – Advanced Human Behaviour Simulator</h1>
+ <h1>🚀 Humanex v4.0 – Advanced Human Behaviour Simulator</h1>
     <p>
         Smart Browser Automation Platform • Proxy Support • Cookie Management • Multi-Threading
     </p>
@@ -225,6 +222,3 @@
         HUMANEXBOT.COM
     </a>
 </div>
-</div>
-</body>
-</html>
