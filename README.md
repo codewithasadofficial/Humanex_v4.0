@@ -1,153 +1,102 @@
 🚀 Humanex v4.0 – Advanced Human Behaviour Simulator
 
-<p align="center">
-  <h3 align="center">🤖 Smart Browser Automation Platform</h3>
-  <p align="center">
-    Advanced Human Behaviour Simulation • Multi-Threading • Proxy Support • Cookie Management
-  </p>
-</p>
+🌟 Overview
+
+Humanex v4.0 is an advanced human behaviour simulation platform designed to automate realistic browser sessions using intelligent browsing patterns, proxy integration, user-agent rotation, cookie management, and customizable traffic campaigns.
+
+With a powerful and easy-to-use graphical interface, Humanex allows users to configure browser sessions, manage multiple URLs, import proxies, and monitor campaign activities in real time.
 
 ⸻
 
-🌟 About Humanex
+📥 Download & Installation
 
-Humanex v4.0 – Advanced Human Behaviour Simulator is a powerful desktop automation platform developed to simulate realistic browser sessions using advanced browsing patterns, browser fingerprinting, user-agent rotation, proxy integration, cookie management, and customizable campaign settings.
-
-Humanex provides a modern and user-friendly interface that enables users to create, manage, and monitor automated browser campaigns with ease.
-
-The software is built using Python, PyQt5, and Playwright, delivering high performance, flexibility, and reliability.
-
-⸻
-
-📥 Download Humanex
-
-🌐 Official Website
+🔗 Step 1: Download Humanex
 
 Visit:
 
-HumanexBot.com
-
-Download the latest Humanex v4.0 installation package from the official website.
-
-⸻
-
-⚙️ Installation Guide
-
-Step 1️⃣ – Download
-
-Download the latest Humanex installer package from:
-
 🌐 HumanexBot.com
 
-⸻
-
-Step 2️⃣ – Install
-
-1. Double-click the downloaded installer.
-2. Follow the installation wizard.
-3. Select installation directory.
-4. Complete the installation process.
-5. Launch Humanex from Desktop or Start Menu.
+Download the latest Humanex v4.0 installer package.
 
 ⸻
 
-Step 3️⃣ – License Verification
+⚙️ Step 2: Install Humanex
 
-When Humanex starts for the first time, a license verification window will appear.
+1️⃣ Double-click the downloaded installer.
 
-🔑 Enter your valid license key.
+2️⃣ Follow the installation wizard.
 
-The license key is provided by the Humanex Administration Team after purchase.
+3️⃣ Wait until installation is completed.
 
-⚠️ Without a valid license key, the application will not run.
+4️⃣ Launch Humanex v4.0 from your Desktop.
 
 ⸻
+
+🔑 Step 3: License Verification
+
+When Humanex starts for the first time, it will request a valid license key.
+
+✅ Enter the license key provided by the Humanex Administration Team after purchase.
+
+❌ Without a valid license key, the software will not run.
 
 🧪 Test License Key
 
 CODEWITHASAD-LCEB0V-1531
 
-Activation Process
-
-1. Open Humanex.
-2. Paste the license key.
-3. Click Activate License.
-4. Wait for verification.
-5. Humanex Dashboard will open automatically.
+Simply paste the key into the activation window and click Activate.
 
 ⸻
 
-✨ Core Features
+✨ Main Features
 
-🤖 Human Behaviour Simulation
+🤖 Advanced Human Behaviour Simulation
 
-Humanex simulates realistic browser interactions including:
+✅ Real browser automation
 
-✅ Natural scrolling
+✅ Human-like browsing behaviour
 
-✅ Random mouse movement
+✅ Smart page interactions
 
-✅ Human-like page navigation
+✅ Natural scrolling patterns
 
-✅ Intelligent browsing patterns
-
-✅ Randomized interaction timing
-
-✅ Browser fingerprint generation
+✅ Mouse movement simulation
 
 ✅ Session randomization
 
-✅ Dynamic user behaviour
+✅ Browser fingerprint generation
 
 ⸻
 
-🌐 Website Campaign Management
+🌐 Website Traffic Campaigns
 
-Create and manage campaigns for:
+✅ Single URL campaigns
 
-✅ Single URLs
+✅ Multiple URL campaigns
 
-✅ Multiple URLs
+✅ Custom stay durations
 
-✅ Landing Pages
+✅ Custom session settings
 
-✅ Website Funnels
+✅ Referral source selection
 
-✅ Custom Traffic Campaigns
-
-Features include:
-
-🎯 URL Management
-
-🎯 Session Duration Control
-
-🎯 Referral Selection
-
-🎯 Device Distribution
-
-🎯 Thread Management
+✅ Campaign management dashboard
 
 ⸻
 
-🔄 Advanced Proxy System
+🔄 Proxy Management
 
-Humanex supports:
+Supports:
 
 🌍 Residential Proxies
 
 🏢 Datacenter Proxies
 
-🔐 Private Proxies
+🔐 Authenticated Proxies
 
-🌐 HTTP Proxies
+🌐 HTTP/HTTPS Proxies
 
-🌐 HTTPS Proxies
-
-🔒 Authenticated Proxies
-
-⸻
-
-Supported Proxy Formats
+Supported Formats
 
 IP:PORT
 
@@ -157,70 +106,49 @@ IP:PORT:USERNAME:PASSWORD
 
 ⸻
 
-📱 User-Agent Rotation
+📱 Device Distribution System
 
-Rotate browser fingerprints automatically.
-
-Supported:
-
-💻 Desktop User Agents
-
-📱 Android User Agents
-
-📱 Mobile User Agents
-
-🖥️ Custom User-Agent Lists
-
-Benefits:
-
-✅ Better session diversity
-
-✅ More realistic browser environments
-
-✅ Randomized visitor profiles
-
-⸻
-
-🍪 Cookie Management
-
-Supported Formats:
-
-✅ Netscape Cookies
-
-✅ JSON Cookies
-
-Features:
-
-🍪 Import Existing Cookies
-
-🍪 Session Cookie Injection
-
-🍪 Custom Cookie Profiles
-
-🍪 Cookie-Based Browser Sessions
-
-⸻
-
-📊 Device Distribution System
-
-Control visitor distribution between:
+Configure traffic distribution between:
 
 📱 Android Devices
 
 💻 Desktop Devices
 
-Example:
+Adjust percentages according to your campaign requirements.
 
-Android: 70%
-Desktop: 30%
+⸻
 
-Customize according to campaign requirements.
+🧩 User-Agent Rotation
+
+Features:
+
+🔄 Automatic rotation
+
+📱 Mobile User Agents
+
+💻 Desktop User Agents
+
+📂 Import custom User-Agent lists
+
+🎯 Random assignment for each session
+
+⸻
+
+🍪 Cookie Import Support
+
+Supported formats:
+
+✅ JSON Cookies
+
+✅ Netscape Cookies
+
+Import existing browser cookies to create more realistic browsing sessions.
 
 ⸻
 
 🔍 Referral Traffic Sources
 
-Humanex supports multiple referral sources including:
+Select from multiple traffic sources:
 
 🔎 Google
 
@@ -232,67 +160,39 @@ Humanex supports multiple referral sources including:
 
 ▶️ YouTube
 
-🌐 Direct Visits
+🌐 Direct Traffic
 
 ⸻
 
-🔑 Keyword Search Campaigns
+⚡ Multi-Threaded Engine
 
-Keyword Search Mode allows:
+🚀 High-speed execution
 
-✅ Domain Selection
+🚀 Multiple concurrent sessions
 
-✅ Keyword Import
+🚀 Adjustable thread counts
 
-✅ Search Simulation
-
-✅ Search Result Navigation
-
-✅ Visit Duration Settings
+🚀 Efficient resource utilization
 
 ⸻
 
-⚡ Multi-Threaded Performance Engine
+📊 Real-Time Monitoring
 
-Designed for high-performance execution.
-
-Features:
-
-🚀 Concurrent Sessions
-
-🚀 Adjustable Threads
-
-🚀 Fast Processing
-
-🚀 Resource Optimization
-
-🚀 Session Queue Management
-
-⸻
-
-📈 Real-Time Monitoring
-
-Monitor every action directly from the dashboard.
-
-Includes:
+Monitor campaign activity live:
 
 🟢 Browser Launches
 
-📍 Session Activity
-
 🌍 Proxy Status
+
+📍 Session Activity
 
 🔗 URL Visits
 
-🍪 Cookie Injection
-
-📱 Device Assignment
-
-⚠️ Errors & Warnings
+⚠️ Error Logs
 
 ✅ Completed Sessions
 
-📊 Campaign Statistics
+📈 Campaign Statistics
 
 ⸻
 
@@ -300,91 +200,39 @@ Includes:
 
 Step 1
 
-🔑 Activate Humanex using your license key.
-
-⸻
+🔑 Activate your Humanex license.
 
 Step 2
 
 🌐 Add your target website URL.
 
-Example:
-
-https://yourwebsite.com
-
-⸻
-
 Step 3
 
 ⏱ Configure visit duration.
-
-Example:
-
-60000 ms
-
-(60 Seconds)
-
-⸻
 
 Step 4
 
 🌍 Import proxies (Optional).
 
-⸻
-
 Step 5
 
-📱 Import User-Agent list (Optional).
-
-⸻
+📱 Import User-Agent lists (Optional).
 
 Step 6
 
 🍪 Import cookies (Optional).
 
-⸻
-
 Step 7
 
-🔍 Select referral source.
-
-Example:
-
-* Google
-* Bing
-* Yahoo
-* Facebook
-* YouTube
-* Direct
-
-⸻
+🔍 Select traffic source.
 
 Step 8
 
-📊 Configure Android/Desktop percentage.
-
-Example:
-
-Android = 80%
-Desktop = 20%
-
-⸻
+⚡ Configure thread count.
 
 Step 9
 
-⚡ Set thread count.
-
-Example:
-
-10 Threads
-
-⸻
-
-Step 🔟
-
-▶️ Click START
-
-Humanex will begin executing your configured browser sessions.
+▶️ Click START and begin your campaign.
 
 ⸻
 
@@ -392,11 +240,11 @@ Humanex will begin executing your configured browser sessions.
 
 Minimum Requirements
 
-💻 Windows 10 / Windows 11
+💻 Windows 10 / 11
 
 🧠 4 GB RAM
 
-💾 2 GB Free Storage
+💾 2 GB Free Disk Space
 
 🌐 Stable Internet Connection
 
@@ -404,15 +252,13 @@ Minimum Requirements
 
 Recommended Requirements
 
-🚀 Windows 10 / Windows 11
+🚀 Windows 10 / 11
 
 🧠 8 GB+ RAM
 
 💾 SSD Storage
 
 ⚡ High-Speed Internet Connection
-
-🌍 Quality Proxy Sources
 
 ⸻
 
@@ -424,75 +270,34 @@ Recommended Requirements
 
 🌐 Playwright
 
-⚙️ Chromium Automation
+🔧 Chromium Automation
 
 📡 Requests
 
-🔧 JSON
-
-⚡ Threading
+⚙️ Multi-Threading
 
 ⸻
 
-🔄 Updates
+📞 Support
 
-Humanex includes an automatic version-checking system.
+Need help?
 
-Features:
+🌐 Visit: HumanexBot.com
 
-✅ Version Verification
+📧 Contact the Humanex Administration Team for:
 
-✅ Update Notifications
+✅ Licensing Support
 
-✅ Compatibility Checks
-
-✅ Future Release Support
-
-⸻
-
-📞 Support & Licensing
-
-For support, updates, licensing information, and new releases:
-
-🌐 HumanexBot.com
-
-Services:
-
-✅ License Activation
+✅ Installation Assistance
 
 ✅ Technical Support
 
-✅ Installation Help
-
-✅ Bug Reports
-
-✅ Update Assistance
-
-⸻
-
-🔒 License Notice
-
-Humanex is licensed software.
-
-A valid license key is required for operation.
-
-Unauthorized distribution, modification, or resale of the software is prohibited.
+✅ Software Updates
 
 ⸻
 
 📦 Version Information
 
-Software Name : Humanex
-Version       : 4.0
-Edition       : Advanced Human Behaviour Simulator
-Platform      : Windows
-Framework     : PyQt5 + Playwright
+🚀 Humanex v4.0
 
-⸻
-
-❤️ Thank You
-
-Thank you for choosing Humanex v4.0 – Advanced Human Behaviour Simulator.
-
-We are continuously improving Humanex with new features, optimizations, and updates to provide the best browser automation experience possible.
-
+Advanced Human Behaviour Simulator
