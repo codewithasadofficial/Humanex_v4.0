@@ -4,7 +4,7 @@
 
 Humanex v4.0 is an advanced human behaviour simulation platform designed to automate realistic browser sessions using intelligent browsing patterns, proxy integration, user-agent rotation, cookie management, and customizable traffic campaigns.
 
-With a powerful and easy-to-use graphical interface, Humanex allows users to configure browser sessions, manage multiple URLs, import proxies, and monitor campaign activities in real time.
+With a powerful and easy-to-use graphical interface, Humanex v4.0 allows users to configure browser sessions, manage multiple URLs, import proxies, and monitor campaign activities in real time.
 
 ⸻
 
@@ -12,11 +12,11 @@ With a powerful and easy-to-use graphical interface, Humanex allows users to con
 
 🔗 Step 1: Download Humanex
 
-Visit:
+🌐 HUMANEXBOT.COM
 
-🌐 HumanexBot.com
+Download the latest Humanex v4.0 installer package from:
 
-Download the latest Humanex v4.0 installer package.
+👉 HUMANEXBOT.COM
 
 ⸻
 
@@ -44,7 +44,7 @@ When Humanex starts for the first time, it will request a valid license key.
 
 CODEWITHASAD-LCEB0V-1531
 
-Simply paste the key into the activation window and click Activate.
+Paste the key into the activation window and click Activate.
 
 ⸻
 
@@ -86,7 +86,7 @@ Simply paste the key into the activation window and click Activate.
 
 🔄 Proxy Management
 
-Supports:
+Supported Proxy Types
 
 🌍 Residential Proxies
 
@@ -120,7 +120,7 @@ Adjust percentages according to your campaign requirements.
 
 🧩 User-Agent Rotation
 
-Features:
+Features
 
 🔄 Automatic rotation
 
@@ -136,7 +136,7 @@ Features:
 
 🍪 Cookie Import Support
 
-Supported formats:
+Supported Formats
 
 ✅ JSON Cookies
 
@@ -212,15 +212,15 @@ Step 3
 
 Step 4
 
-🌍 Import proxies (Optional).
+🌍 Import proxies (Optional)
 
 Step 5
 
-📱 Import User-Agent lists (Optional).
+📱 Import User-Agent lists (Optional)
 
 Step 6
 
-🍪 Import cookies (Optional).
+🍪 Import cookies (Optional)
 
 Step 7
 
@@ -282,9 +282,9 @@ Recommended Requirements
 
 Need help?
 
-🌐 Visit: HumanexBot.com
+🌐 HUMANEXBOT.COM
 
-📧 Contact the Humanex Administration Team for:
+Contact the Humanex Administration Team for:
 
 ✅ Licensing Support
 
@@ -301,3 +301,7 @@ Need help?
 🚀 Humanex v4.0
 
 Advanced Human Behaviour Simulator
+
+💙 Thank you for choosing Humanex v4.0
+
+🌐 **Humanexbot.com**
